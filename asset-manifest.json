@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clickyAdvantureTime/static/css/main.394010cf.chunk.css",
-    "main.js": "/clickyAdvantureTime/static/js/main.5d56a187.chunk.js",
-    "main.js.map": "/clickyAdvantureTime/static/js/main.5d56a187.chunk.js.map",
+    "main.js": "/clickyAdvantureTime/static/js/main.44b77e35.chunk.js",
+    "main.js.map": "/clickyAdvantureTime/static/js/main.44b77e35.chunk.js.map",
     "runtime~main.js": "/clickyAdvantureTime/static/js/runtime~main.dad0dce8.js",
     "runtime~main.js.map": "/clickyAdvantureTime/static/js/runtime~main.dad0dce8.js.map",
-    "static/js/2.98dcc9dd.chunk.js": "/clickyAdvantureTime/static/js/2.98dcc9dd.chunk.js",
-    "static/js/2.98dcc9dd.chunk.js.map": "/clickyAdvantureTime/static/js/2.98dcc9dd.chunk.js.map",
+    "static/js/2.5bfccd3c.chunk.js": "/clickyAdvantureTime/static/js/2.5bfccd3c.chunk.js",
+    "static/js/2.5bfccd3c.chunk.js.map": "/clickyAdvantureTime/static/js/2.5bfccd3c.chunk.js.map",
     "index.html": "/clickyAdvantureTime/index.html",
-    "precache-manifest.e96d26ef1459a2a5f7f61e6cf68a46ae.js": "/clickyAdvantureTime/precache-manifest.e96d26ef1459a2a5f7f61e6cf68a46ae.js",
+    "precache-manifest.ab81a61f3123afaa8077596e41411fdd.js": "/clickyAdvantureTime/precache-manifest.ab81a61f3123afaa8077596e41411fdd.js",
     "service-worker.js": "/clickyAdvantureTime/service-worker.js",
     "static/css/main.394010cf.chunk.css.map": "/clickyAdvantureTime/static/css/main.394010cf.chunk.css.map"
   }
