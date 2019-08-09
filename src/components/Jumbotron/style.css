@@ -1,0 +1,16 @@
+.jumbotron {
+  height: 400px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWr1NGEQn5XMJDnowZG0wK8tW9h_zQkgUZQPS4DU2HoNY4dhNa-g");
+  /* background-repeat: no-repeat, repeat; */
+}
+
+.container h1 {
+  font-weight: 1000;
+  color: purple;
+}
+
+.container p {
+  font-weight: 1000;
+  color: purple;
+  font-size: 2em;
+}
