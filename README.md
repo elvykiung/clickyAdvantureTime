@@ -5,10 +5,19 @@
 - [General info](#general-info)
 - [Technologies](#Technologies)
 - [Deployment](#Deployment)
-- [Code Overview](#Code-Overview)
 
 ## General info
 
-![Image]()
+![Image](./front.gif)
 
 ## Technologies
+
+- React
+- Node
+- Express
+
+## Deployment
+
+- Clone the repo and npm i , npm start
+
+- App Link : https://elvykiung.github.io/clickyAdvantureTime/
